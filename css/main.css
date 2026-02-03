@@ -91,7 +91,7 @@ form button {
 form button:hover,
 form button:focus {
   background-color: black;
-  color: rgb(194, 137, 137);
+  color: rgb(48, 29, 29);
 }
 
 /* Footer */
